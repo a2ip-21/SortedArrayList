@@ -2,41 +2,6 @@
 #include <cmath>
 
 using namespace std;
-
-/*
-
-Array
-- Unsorted
-- Sorted
-
-Linked List
-- UnSorted
-- Sorted
-
-
-int LengthIs();
-
-bool IsFull();
-bool IsEmpty();
-
-void InsertItem(); -- 
-void DeleteItem(); -- 
-void RetrieveItem(); -- 
-
-void MakeEmpty();
-
-bool IsLastItem();
-void GetNextItem();
-void ResetList();
-
-void Display();
-
--> 4
-0 1 2 3 4 5 6
-1 2 3 4 5 6   
-
-*/
-
 const int MAX_SIZE = 500;
 
 template <class T>
